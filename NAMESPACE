@@ -1,0 +1,2 @@
+export(TSMNmoments,TSMNgenerator)
+importFrom("stats", "dnorm", "dt", "integrate", "pnorm", "pt", "qnorm", "qt", "rbeta", "runif")
